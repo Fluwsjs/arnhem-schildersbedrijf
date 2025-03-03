@@ -18,3 +18,17 @@ Modern website voor Arnhem Schildersbedrijf gebouwd met Next.js, React, en Tailw
 - Tailwind CSS
 - Framer Motion
 - TypeScript 
+
+## Deployment
+
+- Gehost op Plesk
+- Automatische builds
+- SSL certificaat
+- Node.js runtime
+
+## Development
+
+- Git version control
+- GitHub repository
+- Local development met `npm run dev`
+- Production builds met `npm run build` 
