@@ -31,4 +31,10 @@ Modern website voor Arnhem Schildersbedrijf gebouwd met Next.js, React, en Tailw
 - Git version control
 - GitHub repository
 - Local development met `npm run dev`
-- Production builds met `npm run build` 
+- Production builds met `npm run build`
+
+## Contact
+
+- Email: info@arnhem-schildersbedrijf.nl
+- Telefoon: 026-3816630
+- Adres: De Brink 3, 6842 AT Arnhem 
